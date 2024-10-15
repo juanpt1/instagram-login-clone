@@ -1,0 +1,15 @@
+{
+  "name": "instagram-login-clone",
+  "version": "1.0.0",
+  "description": "Este proyecto es un clon de la página de inicio de Instagram, desarrollado únicamente con HTML y CSS. Está diseñado para ser una réplica visual de la interfaz de inicio de sesión de Instagram, con un diseño receptivo y adaptado para dispositivos móviles.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --port=3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
