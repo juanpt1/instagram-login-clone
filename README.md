@@ -19,7 +19,7 @@ El diseño utiliza flexbox para garantizar una disposición coherente en diferen
    ```bash
    git clone https://github.com/juanpt1/instagram-login-clone.git
 
-   cd instagram-clone
+   cd instagram-login-clone
 
 3. Instala las dependecias y ejecuta el proyecto
     ```bash
